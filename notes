@@ -1,0 +1,5 @@
+First we installed mongoose here, mongoose is the odm(object document mapper) here for mongodb.
+Everything here is represented in the form of documents which contain data in json format. So the tables in sql
+are documents here and the row are the collection here represented in the form of json
+
+In mongo if we dont give any field as required, it wont be even shown when we fetch that collection. It will not store itself null
